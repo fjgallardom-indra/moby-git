@@ -1,4 +1,4 @@
-commit 1
+commit de conflicto
 
 escribo ahora el commit 2
 
